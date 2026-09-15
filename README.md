@@ -1,7 +1,6 @@
 # Controle de Gastos Pessoais
 
-Aplicação desenvolvida em Python para controle de gastos pessoais,
-utilizando a regra 50/30/20 como base para organização financeira.
+Aplicação desenvolvida em Python para controle de gastos pessoais, utilizando a regra 50/30/20 como base para organização financeira.
 
 ## Funcionalidades
 
